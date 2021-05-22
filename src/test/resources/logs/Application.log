@@ -1,0 +1,9 @@
+21/05/2021 01:17:43 devpinoyLogger Config file loaded!!
+21/05/2021 01:17:43 devpinoyLogger OR file loaded!!
+21/05/2021 01:17:44 devpinoyLogger Chrome Launched!!
+21/05/2021 01:17:47 devpinoyLogger Navigated to : http://www.zoho.com/
+21/05/2021 01:17:48 devpinoyLogger clicking on an Element : loginLink_CSS
+21/05/2021 01:17:48 devpinoyLogger Typing in an Element : email_CSS value as : grakesh628@gmail.com
+21/05/2021 01:17:48 devpinoyLogger clicking on an Element : next_XPATH
+21/05/2021 01:17:48 devpinoyLogger Typing in an Element : password_CSS value as : Vault12#
+21/05/2021 01:17:48 devpinoyLogger clicking on an Element : signIn_XPATH
