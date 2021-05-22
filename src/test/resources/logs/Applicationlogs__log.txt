@@ -1,13 +1,13 @@
-DEBUG   2021-05-21 11:01:21,863 [main] devpinoyLogger  - Config file loaded!!
-DEBUG   2021-05-21 11:01:21,865 [main] devpinoyLogger  - OR file loaded!!
-DEBUG   2021-05-21 11:01:24,333 [main] devpinoyLogger  - Chrome Launched!!
-DEBUG   2021-05-21 11:01:26,685 [main] devpinoyLogger  - Navigated to : http://www.zoho.com/
-DEBUG   2021-05-21 11:01:27,616 [main] devpinoyLogger  - clicking on an Element : loginLink_CSS
-DEBUG   2021-05-21 11:01:27,735 [main] devpinoyLogger  - Typing in an Element : email_CSS value as : grakesh628@gmail.com
-DEBUG   2021-05-21 11:01:27,795 [main] devpinoyLogger  - clicking on an Element : next_XPATH
-DEBUG   2021-05-21 11:01:27,871 [main] devpinoyLogger  - Typing in an Element : password_CSS value as : Vault12#
-DEBUG   2021-05-21 11:01:27,929 [main] devpinoyLogger  - clicking on an Element : signIn_XPATH
-DEBUG   2021-05-21 11:01:40,005 [main] devpinoyLogger  - clicking on an Element : crmLink_XPATH
-DEBUG   2021-05-21 11:01:40,142 [main] devpinoyLogger  - clicking on an Element : accountTab_XPATH
-DEBUG   2021-05-21 11:01:41,117 [main] devpinoyLogger  - clicking on an Element : createAccountBtn_XPATH
-DEBUG   2021-05-21 11:01:41,655 [main] devpinoyLogger  - Typing in an Element : createAccountEditBox_XPATH value as : Raman
+DEBUG   2021-05-22 10:13:03,091 [main] devpinoyLogger  - Config file loaded!!
+DEBUG   2021-05-22 10:13:03,092 [main] devpinoyLogger  - OR file loaded!!
+DEBUG   2021-05-22 10:13:04,862 [main] devpinoyLogger  - Chrome Launched!!
+DEBUG   2021-05-22 10:13:07,606 [main] devpinoyLogger  - Navigated to : http://www.zoho.com/
+DEBUG   2021-05-22 10:13:08,605 [main] devpinoyLogger  - clicking on an Element : loginLink_CSS
+DEBUG   2021-05-22 10:13:08,685 [main] devpinoyLogger  - Typing in an Element : email_CSS value as : grakesh628@gmail.com
+DEBUG   2021-05-22 10:13:08,719 [main] devpinoyLogger  - clicking on an Element : next_XPATH
+DEBUG   2021-05-22 10:13:08,881 [main] devpinoyLogger  - Typing in an Element : password_CSS value as : Vault12#
+DEBUG   2021-05-22 10:13:08,911 [main] devpinoyLogger  - clicking on an Element : signIn_XPATH
+DEBUG   2021-05-22 10:13:19,987 [main] devpinoyLogger  - clicking on an Element : crmLink_XPATH
+DEBUG   2021-05-22 10:13:20,095 [main] devpinoyLogger  - clicking on an Element : accountTab_XPATH
+DEBUG   2021-05-22 10:13:20,829 [main] devpinoyLogger  - clicking on an Element : createAccountBtn_XPATH
+DEBUG   2021-05-22 10:13:21,475 [main] devpinoyLogger  - Typing in an Element : createAccountEditBox_XPATH value as : Raman

@@ -1,13 +1,13 @@
-21/05/2021 11:01:21 devpinoyLogger Config file loaded!!
-21/05/2021 11:01:21 devpinoyLogger OR file loaded!!
-21/05/2021 11:01:24 devpinoyLogger Chrome Launched!!
-21/05/2021 11:01:26 devpinoyLogger Navigated to : http://www.zoho.com/
-21/05/2021 11:01:27 devpinoyLogger clicking on an Element : loginLink_CSS
-21/05/2021 11:01:27 devpinoyLogger Typing in an Element : email_CSS value as : grakesh628@gmail.com
-21/05/2021 11:01:27 devpinoyLogger clicking on an Element : next_XPATH
-21/05/2021 11:01:27 devpinoyLogger Typing in an Element : password_CSS value as : Vault12#
-21/05/2021 11:01:27 devpinoyLogger clicking on an Element : signIn_XPATH
-21/05/2021 11:01:40 devpinoyLogger clicking on an Element : crmLink_XPATH
-21/05/2021 11:01:40 devpinoyLogger clicking on an Element : accountTab_XPATH
-21/05/2021 11:01:41 devpinoyLogger clicking on an Element : createAccountBtn_XPATH
-21/05/2021 11:01:41 devpinoyLogger Typing in an Element : createAccountEditBox_XPATH value as : Raman
+22/05/2021 10:13:03 devpinoyLogger Config file loaded!!
+22/05/2021 10:13:03 devpinoyLogger OR file loaded!!
+22/05/2021 10:13:04 devpinoyLogger Chrome Launched!!
+22/05/2021 10:13:07 devpinoyLogger Navigated to : http://www.zoho.com/
+22/05/2021 10:13:08 devpinoyLogger clicking on an Element : loginLink_CSS
+22/05/2021 10:13:08 devpinoyLogger Typing in an Element : email_CSS value as : grakesh628@gmail.com
+22/05/2021 10:13:08 devpinoyLogger clicking on an Element : next_XPATH
+22/05/2021 10:13:08 devpinoyLogger Typing in an Element : password_CSS value as : Vault12#
+22/05/2021 10:13:08 devpinoyLogger clicking on an Element : signIn_XPATH
+22/05/2021 10:13:19 devpinoyLogger clicking on an Element : crmLink_XPATH
+22/05/2021 10:13:20 devpinoyLogger clicking on an Element : accountTab_XPATH
+22/05/2021 10:13:20 devpinoyLogger clicking on an Element : createAccountBtn_XPATH
+22/05/2021 10:13:21 devpinoyLogger Typing in an Element : createAccountEditBox_XPATH value as : Raman
